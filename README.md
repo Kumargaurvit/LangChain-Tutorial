@@ -122,32 +122,6 @@ For beginners, we recommend following this order:
 7. Build a **Chatbot** to practice conversational AI
 8. Create a complete **GenAI App** integrating everything
 
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to add more examples or improve existing tutorials:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/new-tutorial`)
-3. Commit your changes (`git commit -m 'Add new tutorial'`)
-4. Push to the branch (`git push origin feature/new-tutorial`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is open source and available for educational purposes.
-
-## 📧 Contact
-
-For questions or suggestions, feel free to open an issue or reach out to the repository maintainer.
-
-## 🌟 Acknowledgments
-
-- LangChain documentation and community
-- OpenAI for providing powerful language models
-- The open-source community for various tools and libraries
-
----
-
 **Happy Learning! 🚀**
 
 *Start building amazing AI applications with LangChain!*
