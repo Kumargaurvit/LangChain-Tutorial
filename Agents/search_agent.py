@@ -21,6 +21,11 @@ search_tool = DuckDuckGoSearchRun()
 # Initializing LLM Model using GROQ
 llm = ChatGroq(model="llama-3.3-70b-versatile", temperature=0)
 
+"""
+ReAct is a design pattern used in Al agents that stands for Reasoning + Acting.
+It allows a language model (LLM) to interleave internal reasoning (Thought)
+with external actions (like tool use) in a structured, multi-step process.
+"""
 # Pulling the ReAct (Reasoning + Acting) Prompt from LangChain Hub
 prompt = hub.pull('hwchase17/react') # Pulls the standard ReAct Agent Prompt
 
